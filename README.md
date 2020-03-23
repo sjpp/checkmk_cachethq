@@ -3,7 +3,7 @@ A CheckMK alert handler Bash script to update CacheHQ
 
 ## Requirements
 
-* Curl
+* cUrl
 * You need to have a running CheckMK instance with Check_MK Enterprise Edition as "alert handlers" are only available in this edition
 * You need to have a running CacheHQ instance, reachable from your CheckMK instance
 
